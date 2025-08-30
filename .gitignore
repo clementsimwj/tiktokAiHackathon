@@ -1,0 +1,25 @@
+# Ignore trained model weights
+*.pth
+ai_video_detector.pth
+
+# Ignore video datasets
+videos/
+*.mp4
+*.mov
+
+# Ignore cache folders
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.cache/
+*.log
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore Python virtual environment
+venv/
+.env/
