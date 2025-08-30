@@ -36,3 +36,7 @@ With the rise of high-quality AI-generated videos, it is increasingly difficult 
 
 ## Assets
 - Local datasets of labeled real and AI-generated videos used for training and evaluation
+
+### Dataset Links
+- AI-generated videos dataset: [svjack/Shoji_ai_videos](https://huggingface.co/datasets/svjack/Shoji_ai_videos)
+- Real videos dataset: [hututao/video](https://huggingface.co/datasets/hututao/video)
