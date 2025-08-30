@@ -1,6 +1,6 @@
 import torch
 from transformers import AutoImageProcessor, AutoModelForVideoClassification
-from inference import predict_video
+from .inference import predict_video
 from dotenv import load_dotenv
 import os
 

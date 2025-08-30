@@ -1,5 +1,5 @@
 import torch
-from dataset_utils import extract_frames
+from .dataset_utils import extract_frames
 from PIL import Image
 
 def predict_video(video_path, processor, model, device="cpu", max_frames=16):

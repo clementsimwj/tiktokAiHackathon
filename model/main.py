@@ -3,7 +3,7 @@ import torch
 from torch.utils.data import DataLoader, ConcatDataset
 from transformers import AutoImageProcessor, AutoModelForVideoClassification
 
-from dataset_utils import LocalVideoDataset, collate_skip
+from .dataset_utils import LocalVideoDataset, collate_skip
 from train import train_model
 from dotenv import load_dotenv
 import os
