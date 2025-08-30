@@ -43,3 +43,4 @@ With the rise of high-quality AI-generated videos, it is increasingly difficult 
 
 ### Additional Resources
 - Supplementary project files and assets: [Google Drive Folder](https://drive.google.com/drive/folders/1T99PPDi_uDa6IkdgY0RL9-YCR_3jTlWO?usp=sharing)
+- Move the file ai_video_detector.pth into the model folder and run app.py
